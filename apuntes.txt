@@ -1,3 +1,7 @@
 npm i dotenv
 npm i env-var
 npm i express
+
+MIGRAR WEB SERVER A ES6
+------------------------
+Primero en el package.json se agrega antes de scripts, type:module
